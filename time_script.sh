@@ -11,8 +11,7 @@ do
         echo $(($(date +%s%N)/1000000))
 
 # Extra credit - add additional lines that output to the terminal the UTC time
-        echo -n "UTC Time: "
-        echo $(date -u)
+        
 
 # Required step: Modify the sleep function to include 1, 5, and 20-second increments while showing console output for each of the different increments
         sleep 10
