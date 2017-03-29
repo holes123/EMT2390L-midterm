@@ -11,4 +11,4 @@ Use this README.md file for the steps for this exercise.
 5. Show successful (error free) console output after running this binary. NOTE: Be sure to show console output that reflects each of the different time increments after modifying the "sleep" function.
 6. Upload the modified code to your Github account and custom repository.
 7. Upload screen shots of all the above to the BlackBoard midterm link.
-8. EXTRA CREDIT: Read the commment in the ReadMe file for optional extra credit for this exercise.
+8. EXTRA CREDIT: Read the commment in the script's code describing optional extra credit for this exercise.
