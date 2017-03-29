@@ -1,7 +1,7 @@
 # Shows Epoch time in milliseconds
 # CTRL-C TO STOP
 
-#!/bin/bash
+#!/bin/js
 
 
 # Runs command for determining epoch time
